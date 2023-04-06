@@ -13,6 +13,6 @@
         "app_id": "W9YUKLKWD0",
         "api_key_search_only": "9d64d466aa9be5f4216d3e2b4137ce34",
         "index_name": "edea_bgg",
-        "hits_per_page": 25
+        "hits_per_page": 100
     }
 }
