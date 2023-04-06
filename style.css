@@ -15,7 +15,7 @@ strong {
     font-weight: 700;
 }
 .soft {
-    color: #bbb;
+    color: #7a7a7a;
     font-weight: 300;
 }
 h3 {
@@ -82,7 +82,7 @@ body {
         min-width: 150px;
         appearance: none;
         font: inherit;
-        background: #fff;
+        background: #808080;
         border: 1px solid rgba(0,0,0,0.05);
         border-radius: 4px;
         padding: 10px 2px 10px 5px;
@@ -111,7 +111,7 @@ body {
         -moz-appearance: none;
         appearance: none;
         font: inherit;
-        background: #fff;
+        background: #808080;
         border: 1px solid rgba(0,0,0,0.05);
         border-radius: 4px;
         padding: 10px 10px 10px 35px;
@@ -137,7 +137,7 @@ body {
         margin-left: -22px;
     }
         .ais-SearchBox-resetIcon {
-            fill: #bfc7d8;
+            fill: #bfcae0;
         }
 
 .stats {
@@ -205,7 +205,8 @@ body {
                     border: 1px solid rgba(0,0,0,0.2);
                 }
                 .game-details {
-                    background: white;
+                    background: rgb(173, 173, 173);
+                    color:#2b2b2b;
                     box-shadow: 1px 1px 5px rgba(0,0,0,0.2);
                     border: 1px solid rgba(0,0,0,0.1);
                     border-radius: 3px;
